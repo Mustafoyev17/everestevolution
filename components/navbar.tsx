@@ -12,6 +12,7 @@ import { Badge } from "@/components/ui/badge"
 import { useCart } from "@/components/cart-provider"
 import { useLiked } from "@/components/liked-provider"
 
+
 const navLinks = [
   { name: "Home", href: "/" },
   { name: "About", href: "/about" },
